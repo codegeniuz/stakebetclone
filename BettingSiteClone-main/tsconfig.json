@@ -22,8 +22,9 @@
   "include": [
     "next-env.d.ts",
     "**/*.ts",
-    "**/*.tsx"
-, "pages/pdfview.js", pages/pdf.tsxs"  ],
+    "**/*.tsx",
+    "pages/pdf.tsx"
+  ],
   "exclude": [
     "node_modules"
   ]
